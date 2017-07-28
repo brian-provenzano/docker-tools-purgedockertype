@@ -1,4 +1,4 @@
-# Simple Docker Purge / Clean script
+# Docker Purge / Cleanup script
 
 #### This very simple script purges docker containers, images or volumes.  Can be handy for local lab cleanup for dev stuff...or not :)
 
